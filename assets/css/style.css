@@ -996,7 +996,6 @@ p.form-message.error {
 
     .prod{
       padding: 1rem;
-      margin: 2rem;
       display: flex;
       flex-direction: column;
       text-align: center;
